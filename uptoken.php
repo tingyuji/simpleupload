@@ -9,8 +9,8 @@ use Qiniu\Auth;
 use Qiniu\Storage\UploadManager;
 
 $bucket = 'wxfb';
-$accessKey = 'nIRzQejxrqHcD8JZSFfLQvRhmuf28mHzZuufsdib';
-$secretKey = 'y9-kNiD0mR-mhqLaFWYjlmAoQQ79c8_XNF8ByisH';
+$accessKey = 'xx';
+$secretKey = 'xx';
 $auth = new Auth($accessKey, $secretKey);
 
 
